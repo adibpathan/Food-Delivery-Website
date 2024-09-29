@@ -19,6 +19,9 @@ const Sidebar = () => {
                 <img src={assets.order_icon} alt="" />
                 <p>Orders</p>
             </NavLink>
+            <NavLink to="/stats" className="sidebar-option"> {/* Add graph option */}
+            <p>Stats</p>
+        </NavLink>
         </div>
     </div>
   )
