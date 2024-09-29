@@ -11,7 +11,7 @@ import Stats from "./pages/Stats/Stats";
 
 const App = ()=>{
 
-  const url = "https://food-delivery-website-backend-0xc8.onrender.com"
+  const url = "https://food-delivery-website-backend-yfba.onrender.com"
 
   return (
     <>
